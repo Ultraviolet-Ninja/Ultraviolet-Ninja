@@ -1,4 +1,8 @@
-# Ultraviolet Ninja / Jasmine Jragon
+<div align="center">
+    <h1 align="center">Ultraviolet Ninja OR Jasmine Jragon</h1>
+</div>
+
+
 
 ![cff4133f-e75a-46c9-846c-5be7613522d4](cff4133f-e75a-46c9-846c-5be7613522d4.png)
 
@@ -7,14 +11,19 @@
   <a href=""><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <a href=""><img alt="Raspberry Pi" title="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
   <a href=""><img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
+    <a href=""><img alt="Brave" title="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/></a>
+    <a href=""><img alt="MEGA" title="MEGA" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white"/></a>
   <a href=""><img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href=""><img alt="Circle CI" title="Circle CI" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/></a>
   <a href=""><img alt="Linux Mint" title="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/></a>
   <a href=""><img alt="Mac OS" title="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
+    <a href=""><img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href=""><img alt="Mosquitto" title="Mosquitto" src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/></a>
   <a href=""><img alt="Docker" title="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href=""><img alt="Shazam" title="Shazam" src="https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white"/></a>
+    <a href=""><img alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
+
 
 
 
