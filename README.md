@@ -1,6 +1,6 @@
 # Ultraviolet Ninja / Jasmine Jragon
 
-![cff4133f-e75a-46c9-846c-5be7613522d4](Q:\Code\GitHub Profile\cff4133f-e75a-46c9-846c-5be7613522d4.png)
+![cff4133f-e75a-46c9-846c-5be7613522d4](cff4133f-e75a-46c9-846c-5be7613522d4.png)
 
 
 
