@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Ultraviolet Ninja OR Jasmine Jragon</h1>
+    <h1 align="center">Ultraviolet Ninja && Jasmine Jragon</h1>
 </div>
 
 
